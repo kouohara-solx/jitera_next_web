@@ -1,0 +1,11 @@
+.page_container {
+  height: 800px;
+  position: relative;
+  width: 1440px;
+}
+.image2 {
+  height: 800px;
+  position: absolute;
+  top: 0%;
+  width: 1440px;
+}
